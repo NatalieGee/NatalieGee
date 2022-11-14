@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NatalieGee
+- 👀 I’m interested in data science and software development
+- 🌱 I’m currently learning Computer Science at Athabasca University
+- 📫 How to reach me: phone number and email on my resume or cover letter 
